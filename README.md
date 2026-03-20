@@ -73,7 +73,7 @@ cp .env.example .env
 
 | 类别 | 技术 |
 |:---|:---|
-| 编程语言 | Python 3.9+ |
+| 编程语言 | Python 3.12+ |
 | LLM API | OpenAI API / Anthropic Claude / 国产大模型 |
 | 数据验证 | Pydantic v2 |
 | 向量存储 | ChromaDB / Pinecone（可选） |
